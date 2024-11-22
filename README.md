@@ -1,0 +1,3 @@
+# ShinyRoulette
+
+![demo](demo.gif)
